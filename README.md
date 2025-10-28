@@ -8,6 +8,8 @@ This is a STDIO wrapper for the Streamable HTTP MCP Endpoint:
 https://api.alkemi.cloud/mcp
 ```
 
+Get your free API key at [datalab.alkemi.ai](https://datalab.alkemi.ai?ref=alkemi-mcp)
+
 ## Alkemi.ai
 
 Querying databases requires knowledge about the schema of the tables and may require examples of the kinds of queries that can answer specific questions. Otherwise, you may be getting the wrong answers. Maintaining all that information in every agent or MCP Client that queries your database is a challenge and doesn't scale to teams looking to share data.
