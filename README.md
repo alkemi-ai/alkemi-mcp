@@ -2,7 +2,7 @@
 
 Integrate your Alkemi Data, connected to Snowflake, Google BigQuery, DataBricks and other sources, with your MCP Client.
 
-This is a STDIO wrapped for the Streamable HTTP MCP Endpoint:
+This is a STDIO wrapper for the Streamable HTTP MCP Endpoint:
 
 ```
 https://api.alkemi.cloud/mcp
